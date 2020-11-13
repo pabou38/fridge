@@ -22,7 +22,7 @@ POWER consumption:
 """
 
 
-print('ESP8266 frigo V1.1')
+print('ESP8266 frigo V1.2')
 
 led = machine.Pin(led,machine.Pin.OUT, value=0) # set with led.on(), led.off()
 buzzer = machine.Pin(buzzer, machine.Pin.OUT, value=1) # active low
