@@ -1,2 +1,3 @@
 # fridge
-connected fridge in micropython with ESP8266
+Connected fridge in micropython with ESP8266.
+Solar powered.
